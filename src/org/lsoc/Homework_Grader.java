@@ -37,7 +37,7 @@ public class Homework_Grader {
 	}
 	
 	public void grade() {
-		System.out.printf("Questions attempted : %s, out of %s",questionsAnswered,totalQuestions);
+		System.out.printf("Questions attempted : %s, out of %s\n\n",questionsAnswered,totalQuestions);
 	}
 	public void score() {
 		System.out.printf("Questions correct : %s, out of %s",score,questionsAnswered);

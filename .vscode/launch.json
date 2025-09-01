@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CoinCalculator",
+            "request": "launch",
+            "mainClass": "CoinCalculator",
+            "projectName": "CSA-java1_3-Template_aa86be42"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionsHomework",
+            "request": "launch",
+            "mainClass": "ExpressionsHomework",
+            "projectName": "CSA-java1_3-Template_aa86be42"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",

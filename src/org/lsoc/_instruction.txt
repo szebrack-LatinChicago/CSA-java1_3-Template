@@ -1,1 +1,19 @@
-Attempt the CoinCalculator file in class
+1)Attempt the CoinCalculator file in class
+
+2) Attempt everything in the ExpressionsHomework
+Right now when run it will say:
+Skipping Question A 
+Skipping Question B 
+Skipping Question C 
+Skipping Question D 
+Skipping Question I 
+Skipping Question J 
+Skipping Question K 
+Skipping Question L 
+Skipping Question M 
+Skipping Question N 
+Skipping Question o 
+Questions attempted : 0, out of 11\
+
+after attempting all the problems by changing the word null to a guess
+it will say Questions attempted : 11, out of 11
