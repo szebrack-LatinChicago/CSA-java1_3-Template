@@ -1,0 +1,13 @@
+Go to the indentifyErrors file,
+0) Test the file works with the command 
+            java src/org/lsoc/IdentifyErrors.java
+  A)  Run the file by typing the above line into terminal
+
+1) Open up the file IdentifyErrors
+2) FIX the look of the file with command + shift + f (mac) [Shift + Alt + F  should work on windows]
+3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
+  A)
+  B)
+  C)
+  D)
+4)Save and sync changes with github to turn in! 

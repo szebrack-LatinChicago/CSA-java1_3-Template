@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IdentifyErrors",
+            "request": "launch",
+            "mainClass": "IdentifyErrors",
+            "projectName": "CSA-Template-Source_fc936bb0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CSA-Template-Source_fc936bb0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "apcsa-template_6353ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.lsoc.Main",
+            "args": "",
+            "projectName": "apcsa-project"
+        }
+    ]
+}
