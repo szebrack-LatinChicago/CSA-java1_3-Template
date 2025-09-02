@@ -17,3 +17,5 @@ Questions attempted : 0, out of 11\
 
 after attempting all the problems by changing the word null to a guess
 it will say Questions attempted : 11, out of 11
+
+3) To go above and beyond, make a better coin calculator, or one that works with other types of coins.
