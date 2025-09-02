@@ -5,7 +5,7 @@ public class CoinCalculator {
     	// Calculate the minimum number of coins needed 
     	// Then print out the results.
     	
-    	
+    	System.out.println("¯\\_(ツ)_/¯");
     	System.out.println("Starting with " + cents + " cents");
 	}
 }
